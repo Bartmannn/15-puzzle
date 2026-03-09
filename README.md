@@ -6,15 +6,11 @@ Classic 15‑puzzle game written in Java. The goal is to arrange the tiles in as
 This repository serves as an academic Proof-of-Concept (PoC) project. It was developed primarily to explore Object-Oriented Programming (OOP) principles in a strongly-typed enterprise language (Java) and to implement advanced state-space search algorithms. 
 While it represents an earlier stage of my programming journey, it demonstrates a solid foundation in applying theoretical computer science concepts to practical problems.
 
-## Demo 
+## Demo
 
-<video autoplay loop muted playsinline width="800">
-  <source src="demo/15puzzle_solver.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/ec6a821d-b479-441c-9bc3-e366fd199a75
 
-<video autoplay loop muted playsinline width="800">
-  <source src="demo/15puzzle_solver_result.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/68ec4097-2692-418b-a91a-656c960eaefb
 
 You can see result of the solver inside [demo/result.txt](./demo/result.txt).
 
