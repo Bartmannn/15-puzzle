@@ -29,9 +29,9 @@ public class Game {
         this.size = (byte) size;
 
         initWinBoard();
-        initStartBoard();
+        // initStartBoard();
 
-        // initSimpleStartBoard(150);
+        initSimpleStartBoard(150);
     }
 
     private void initWinBoard() {
