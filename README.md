@@ -24,11 +24,15 @@ You can see result of the solver inside [demo/result.txt](./demo/result.txt).
 
 ## Run
 Option A (Linux/macOS):
+```bash
 ./start.sh
+```
 
 Option B (any OS with JDK):
+```java
 javac Main.java
 java Main
+```
 
 ## Controls
 At runtime you will see:
