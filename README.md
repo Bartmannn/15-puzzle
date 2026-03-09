@@ -8,9 +8,13 @@ While it represents an earlier stage of my programming journey, it demonstrates 
 
 ## Demo 
 
-![Working solver](./demo/15puzzle_solver.gif)
+<video autoplay loop muted playsinline width="800">
+  <source src="demo/15puzzle_solver.mp4" type="video/mp4">
+</video>
 
-![Result](./demo/15puzzle_result.gif)
+<video autoplay loop muted playsinline width="800">
+  <source src="demo/15puzzle_solver_result.mp4" type="video/mp4">
+</video>
 
 You can see result of the solver inside [demo/result.txt](./demo/result.txt).
 
